@@ -1,6 +1,6 @@
 package day5Assignments;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class EvenOrOdd {
 
